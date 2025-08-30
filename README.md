@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yann Novak.
 - 👀 I am a queer artist, composer & technologist.
-- 🎨 My work is guided by my unique perspective as a queer autodidact. Informed by my partial color blindness and dyslexia, I uses sound and light to explore how these intangible materials can act as catalysts to focus our awareness on our own direct experience. 
+- 🎨 My work is guided by my unique perspective as a queer autodidact. Working critically with technology, I uses sound and light to explore questions of presence, agency, and technological influence, transforming these intangible materials into human-scaled encounters that blur the physical and the virtual. 
 - 📫 You can reach me via whatever channel works best for you: https://card.yannnovak.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am also a web designer & developer, you can checkout my code at [@3n-design](https://github.com/3n-design), or check out the design side here: https://www.3n.design
