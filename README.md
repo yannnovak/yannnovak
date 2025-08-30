@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yann Novak.
-- 👀 I am a queer artist & composer.
+- 👀 I am a queer artist, composer & technologist.
 - 🎨 My work is guided by my unique perspective as a queer autodidact. Informed by my partial color blindness and dyslexia, I uses sound and light to explore how these intangible materials can act as catalysts to focus our awareness on our own direct experience. 
 - 📫 You can reach me via whatever channel works best for you: https://card.yannnovak.com
 - 😄 Pronouns: he/him
